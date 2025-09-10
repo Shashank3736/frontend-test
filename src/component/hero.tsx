@@ -4,7 +4,7 @@ import { Container, Title, Text, Button, Image, Flex, Stack, Box } from '@mantin
 const Hero = () => {
   return (
     <Box bg="cream.2" py="1rem">
-      <Container size="xl">
+      <Container size="md">
         <Flex
           direction={{ base: 'column', sm: 'row' }}
           gap="xl"
