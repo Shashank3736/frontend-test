@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <Box bg={"cream.2"}>
-      <Container size="xl" py="md">
+      <Container size="md" py="md">
         <Group justify="space-between" align="center">
           <Text size="lg" fw={700} c="darkBlue.9">Brandname</Text>
           <Group gap="xl">

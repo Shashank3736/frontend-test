@@ -5,7 +5,7 @@ import classes from './details.module.css';
 
 export default function ApprodablePackages() {
   return (
-    <Container size="xl" py="xl">
+    <Container size="md" py="xl">
       <Flex
         direction={{ base: 'column', sm: 'row' }}
         gap="xl"
