@@ -1,0 +1,8 @@
+.learnMoreButton:hover .arrow {
+  transform: translateX(4px);
+  transition: transform 0.2s ease-in-out;
+}
+
+.arrow {
+  transition: transform 0.2s ease-in-out;
+}
